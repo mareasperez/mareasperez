@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=mareasperez.mareasperez)
 </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez&langs_count=10&layout=compact?theme=dracula)](https://github.com/mareasperez/github-readme-stats)
-[![mareasperez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mareasperez)](https://github.com/mareasperez/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true?theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez&langs_count=10&layout=compact)](https://github.com/mareasperez/github-readme-stats)
