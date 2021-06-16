@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=mareasperez.mareasperez)
 </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez)](https://github.com/mareasperez/github-readme-stats)
