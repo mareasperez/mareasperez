@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez)](https://github.com/mareasperez/github-readme-stats)
