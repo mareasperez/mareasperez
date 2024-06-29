@@ -48,5 +48,5 @@ Feel free to reach out via [email](mailto:mareasperez7@gmail.com) or connect wit
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mareasperez&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareasperez&langs_count=10&layout=compact)](https://github.com/mareasperez/github-readme-stats)
+![GitHub stats](https://starts-kappa.vercel.app/api?username=mareasperez&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://starts-kappa.vercel.app/api/top-langs/?username=mareasperez&langs_count=10&layout=compact)](https://github.com/mareasperez/github-readme-stats)
