@@ -27,7 +27,7 @@ Outside of coding, I enjoy gaming, playing soccer, and discovering new places.
 
 #### 📫 Get in Touch
 
-Feel free to reach out via [email](mailto:mareasperez7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mauricio-josue-areas-perez-82b62a11a/)!
+Feel free to reach out via [email](mailto:mareasperez7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mauricio-areas/)!
 
 <br />
 
