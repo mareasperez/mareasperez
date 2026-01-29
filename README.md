@@ -62,9 +62,11 @@ This usually involves:
 
 I like coding in my free time — sometimes just for fun, but often to solve small annoyances in my daily workflow.
 
-That’s how some of my projects started:
-- **DbTool** — I got tired of juggling multiple database clients, so I built a single tool that works across engines.
-- **curl to Postman** — born from converting the same `curl` commands into Postman collections over and over again.
+Here are a couple of tools I’ve built that others have found useful:
+
+- **[curl-to-postman](https://curl-to-postman.vercel.app/)** — A web app that converts `curl` commands into Postman Collections instantly, saving time and frustration when importing APIs into Postman.
+
+- **[DbTool](https://github.com/mareasperez/DbTool/releases)** — A cross-engine database utility I built to avoid juggling multiple database clients. Available with downloadable releases.
 
 I enjoy spotting friction, building something small, and improving it over time.
 
