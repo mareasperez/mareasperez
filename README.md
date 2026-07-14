@@ -15,15 +15,15 @@ I don’t believe in overcomplicating things. These are the tools I use most oft
 
 ### Backend
 - Python (Flask, Django)
-- C# (.NET Core)
+- C# (.NET Core), Java (Spring Boot)
 - PostgreSQL, MySQL, NoSQL databases
 - REST APIs, background jobs, Elasticsearch
 
 ### Frontend
-- React (TypeScript / JavaScript)
+- React
 - Angular
 - Tailwind CSS, Bootstrap
-- Angular Material, DevExtreme, Form.io
+- Angular Material, ShadCN, MUI, DevExtreme, Form.io
 
 ### Cloud & DevOps
 - AWS (serverless and managed services)
