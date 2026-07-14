@@ -14,7 +14,7 @@ I’ve spent a significant part of my career working in production environments,
 I don’t believe in overcomplicating things. These are the tools I use most often.
 
 ### Backend
-- Python (Flask, Django) Currenlty Learning FastAPI
+- Python (Flask, Django) Currently Learning FastAPI
 - C# (.NET Core), Java (Spring Boot)
 - PostgreSQL, MySQL, NoSQL databases
 - REST APIs, background jobs, Elasticsearch
